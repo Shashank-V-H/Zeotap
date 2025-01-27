@@ -1,2 +1,0 @@
-# Zeotap
-- Zeotap's assignment.
